@@ -6,6 +6,7 @@ The control chart is a graph used to study how a process changes over time. Data
 
 
 ![alt text](https://asq.org/-/media/Images/Learn-About-Quality/Seven-Basic-Quality-Tools/dcat-control-chart.gif?la=en)
+
 Reference
 https://asq.org/quality-resources/control-chart
 
