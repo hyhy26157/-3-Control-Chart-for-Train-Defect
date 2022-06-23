@@ -63,7 +63,7 @@ Steps involved in this study include
 ## Result
 
 
-![alt text](https://ibb.co/vBwH4bH)
+![alt text](https://i.ibb.co/PYmNGRN/train.png)
 ![alt text](https://asq.org/-/media/Images/Learn-About-Quality/Seven-Basic-Quality-Tools/dcat-control-chart.gif?la=en)
 
 
