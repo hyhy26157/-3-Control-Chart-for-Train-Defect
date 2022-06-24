@@ -86,7 +86,7 @@ Steps involved in this study includes
 <br /> 3.3) Create a column that can visualise a data point that went above UCL line.
 <br /> 3.4) Create a column that can visualise an upward trend. (Not concern with downward trend for defect rate)
 <br /> 3.5) Join the defect rate data with the withdrawal rate data
-<br /> 3.6) Visualise it on the Dashboard.
+<br /> 3.6) Visualise it on the Dashboard
 
 ## Result
 
