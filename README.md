@@ -81,12 +81,12 @@ Steps involved in this study includes
 1) Cleaning of data - removal of unncessary data and filling Nil data - Using Pandas library.
 2) Aggregate the data -  To groupby the data by fleet and Fault group 
 3) Feature Engineering 
-#^ 3.1) Identify the mean defect of each fleet Fault Group
-#^ 3.2) Create a column that can visualise UCL line Not concern with LCL for defect rate)
-#^ 3.3) Create a column that can visualise a data point that went above UCL line.
-#^ 3.4) Create a column that can visualise an upward trend. (Not concern with downward trend for defect rate)
-#^ 3.5) Join the defect rate data with the withdrawal rate data
-#^ 3.6) Visualise it on the Dashboard
+#^  3.1) Identify the mean defect of each fleet Fault Group
+#^  3.2) Create a column that can visualise UCL line Not concern with LCL for defect rate)
+#^  3.3) Create a column that can visualise a data point that went above UCL line.
+#^  3.4) Create a column that can visualise an upward trend. (Not concern with downward trend for defect rate)
+#^  3.5) Join the defect rate data with the withdrawal rate data
+#^  3.6) Visualise it on the Dashboard
 
 ## Result
 
