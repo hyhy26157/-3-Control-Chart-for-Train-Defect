@@ -48,6 +48,9 @@ The main objective of this project is to aggregate the data and provide a meanin
 1) To aggregate the defect data so that an overview of all the critical train system's health can be easily visualised. Python (Pandas and Numpy) will be used here.
 2) To improve visualisation of the control chart by making the 2 out-of-control signals stands out. PowerBi will be used here.
 
+### Storytelling
+
+![alt text](https://i.ibb.co/bPYXhWT/Capture.jpg)
 
 ### Steps
 Steps involved in this study includes
