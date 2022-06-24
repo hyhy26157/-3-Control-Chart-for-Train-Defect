@@ -58,16 +58,16 @@ https://www.storytellingwithdata.com/
 There are 5 steps to Data Storytelling
 
 1) Understand the context - What is the problem statement?
-The context is that the stakeholders would like to have an overview of the train system reliability, to ensure that area of concern is captured before it leads to train service delay.
+- The context is that the stakeholders would like to have an overview of the train system reliability, to ensure that area of concern is captured before it leads to train service delay.
 
 2) Choose an effective Visualisation - What are some of the visualisation graphs used to illustate the storytelling?
-The go-to graph for a time-series data is line chart. It is a popular graph type and executives (non technical) can understand it easily. Control Chart is a type of line chart. We will be using it for this study.
+- The go-to graph for a time-series data is line chart. It is a popular graph type and executives (non technical) can understand it easily. Control Chart is a type of line chart. We will be using it for this study.
 
 3) Eliminate Cluster - How many visualisation graph is requireed?
-We have 3 datasets in this project. However, we can aggregate the data so that the 3 dataset information can be effectively combined into 1 chart.
+- We have 3 datasets in this project. However, we can aggregate the data so that the 3 dataset information can be effectively combined into 1 chart.
 
 4) Focus attention - What are the information that is unncessary in the visualisation graph?
-We will focus on the 2 major indicators that suits our needs the most.
+- We will focus on the 2 major indicators that suits our needs the most.
 
 1) An large shift deviated from mean rate (3 Standard Deviation from average) indicate for an unforeseen event 
 2) An trend. (3 consecutive higher than previous point) indicate for a sign of increasing defects.
