@@ -1,4 +1,4 @@
-# -3-Control-Chart-for-Train-Defect
+# Case Study #3 - Control Chart Visualisation
 
 ### What is a Control Chart?
 
