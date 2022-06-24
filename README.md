@@ -52,6 +52,17 @@ The main objective of this project is to aggregate the data and provide a meanin
 
 ![alt text](https://i.ibb.co/bPYXhWT/Capture.jpg)
 
+Reference
+https://www.storytellingwithdata.com/
+
+There are 5 steps to Data Storytelling
+
+1) Understand the context - The context of create a control chart is to provide an overview of the train system reliability, to ensure that area of concern is addressed before it can be lead to a service delay.
+2) Choose an effective Visualisation - The go-to graph for a time-series chart is line chart. The Control Chart also used line chart for presentation.
+3) Eliminate Cluster - Since there are multiple data involved but the objective i
+4) Focus attention
+5) Tell a story
+
 ### Steps
 Steps involved in this study includes
 
