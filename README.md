@@ -30,12 +30,12 @@ Fault_Group - Classification of fault type. (e.g. Aircon System)
 Cause - Faulty component name (e.g. Aircon Evaporator Motor failure)
 Fleet - Train Type (e.g. Fleet ABC)
 
-#### Dataset 2 (Train Mileage Data) - Train mileage is the distance which the train has travelled to normalise defect rate between fleets.
+#### Dataset 2 (Train Mileage Data) - Train mileage is the distance (in million km) which the train has travelled. The data is use to normalise defect rate between fleets.
 
 ABC (Monthly)- Month-year of the Fleet ABC Mileage
 XYZ (Monthly)- Month-year of the Fleet XYZ Mileage
 
-#### Dataset 3 (Train Withdrawal Data) - Train withdrawal means that the train has a defects during servicing that requires withdrawal from service. It will result in the trains' passengers disembarked at the next nearest station. This is one of the KPI that train operator tracks to improve passenger service.
+#### Dataset 3 (Train Withdrawal Data) - Train withdrawal means train defects happened during service hours and it is removed from servicing. Trains' passengers will disembark at next nearest station. This is one of the KPI the train operator tracks, to improve passenger experience.
 
 Year_Month - Month-year of the reported train withdrawal
 StockChange Withdrawal - A service defect resulted in a train withdrawal.
@@ -43,13 +43,14 @@ Fault_Group - Classification of fault type. (e.g. Aircon System)
 Fleet - Train Type (e.g. Fleet ABC)
 
 ### Objective
-The main objective of this project is to aggregate the data and provide a meaningful visualisation for the stakeholders.
+
+The main objective of this project is to aggregate the data and provide a meaningful visualisation for the stakeholders to understand the overview of the fault and provide a mitigation plan.
 1) To aggregate the defect data so that an overview of all the critical train system's health can be easily visualised. Python (Pandas and Numpy) will be used here.
 2) To improve visualisation of the control chart by making the 2 out-of-control signals stands out. PowerBi will be used here.
 
 
 ### Steps
-Steps involved in this study include
+Steps involved in this study includes
 
 1) Cleaning of data - removal of unncessary data and filling Nil data - Using Pandas library.
 2) Aggregate the data -  To groupby the data by fleet and Fault group 
@@ -62,7 +63,6 @@ Steps involved in this study include
 - Visualise it on the Dashboard.
 
 ## Result
-
 
 ![alt text](https://i.ibb.co/4fjPzgC/train.jpg)
 ![alt text](https://asq.org/-/media/Images/Learn-About-Quality/Seven-Basic-Quality-Tools/dcat-control-chart.gif?la=en)
