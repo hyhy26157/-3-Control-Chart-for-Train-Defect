@@ -12,7 +12,7 @@ https://asq.org/quality-resources/control-chart
 
 ### What are we doing with a control chart?
 
-Control chart are used in production line, defect monitoring, sensor monitoring to provide an indication whehter the system is in control. Stakeholders use it to look out for any cause for concern and provide a mitigation plan, if required.
+Control chart are used in production line, defect trending, sensor monitoring to provide an indication whehter the system is in control. Stakeholders use it to look out for any cause for concern and provide a mitigation plan, if required.
 
 Control Chart has mainly 8 types of chart patterns that signal Out-of-control. In this study, we will be using the following 2 indicators as they provide the strongest indication for concern:
 
