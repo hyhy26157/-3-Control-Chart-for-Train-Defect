@@ -55,24 +55,13 @@ The main objective of this project is to aggregate the data and provide a meanin
 Reference
 https://www.storytellingwithdata.com/
 
-I have used Cole Nussbaumer knaflics Storytelling with data book to To improve visualise of the Contorl Chart to suit the audience. 
+I have used Cole Nussbaumer knaflics Storytelling with data book to improve Control Chart visualization to suit the audience. 
 
-Essentially, there are 5 steps to Data Storytelling;
+![alt text](https://i.ibb.co/Hg8mDG9/problem.jpg)
 
-1) Understand the context - What is the problem statement?
-<br /> The context is that the stakeholders would like to have an overview of the train system reliability, to ensure that area of concern is captured before it leads to train service delay.
+There are many unncessary information on the control chart and I have decided to fade out all the vectors and texts on the graph. Below is what I will go for, to allow stakeholder's attention to focus on what is neccessary. 
 
-2) Choose an effective Visualisation - What are some of the visualisation graphs used to illustate the storytelling?
-<br /> The go-to graph for a time-series data is line chart. It is a popular graph type and executives (non technical) can understand it easily. Control Chart is a type of line chart. We will be using it for this study.
-
-3) Eliminate Cluster - How many visualisation graph is requireed?
-<br /> We have 3 datasets in this project. However, we can aggregate the data so that the 3 dataset information can be effectively combined into 1 chart.
-
-4) Focus attention - What are the information that is unncessary in the visualisation graph?
-<br /> We will focus on the 2 major indicators (line 18 and 19) used in control chart that provides that most useful information for defect trending.
-
-5) Tell a story - What are the mode of presentation?
-<br /> 
+![alt text](https://i.ibb.co/xG9sZyq/solution.jpg)
 
 ### Steps
 Steps involved in this study includes
