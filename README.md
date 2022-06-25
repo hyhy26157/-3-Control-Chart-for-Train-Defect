@@ -27,7 +27,6 @@ Data showcase in this case study are gathered from a train operator based in met
 
 - Record_MonthName - Month-year of the reported fault.
 - Fault_Group - Classification of fault type. (e.g. Aircon System)
-- Cause - Faulty component name (e.g. Aircon Evaporator Motor failure)
 - Fleet - Train Type (e.g. Fleet ABC)
 
 #### Dataset 2 (Train Mileage Data) - Train mileage is the distance (in million km) which the train has travelled. The data is use to normalise defect rate between fleets.
@@ -38,7 +37,6 @@ Data showcase in this case study are gathered from a train operator based in met
 #### Dataset 3 (Train Withdrawal Data) - Train withdrawal means train defects happened during service hours and it is removed from servicing. Trains' passengers will disembark at next nearest station. This is one of the KPI the train operator tracks, to improve passenger experience.
 
 - Year_Month - Month-year of the reported train withdrawal
-- StockChange Withdrawal - A service defect resulted in a train withdrawal.
 - Fault_Group - Classification of fault type. (e.g. Aircon System)
 - Fleet - Train Type (e.g. Fleet ABC)
 
@@ -48,20 +46,18 @@ The main objective of this project is to aggregate the data and provide a meanin
 1) To aggregate the defect data so that an overview of all the critical train system's health can be easily visualised. Python (Pandas and Numpy) will be used here.
 2) To improve visualisation of the control chart by making the 2 out-of-control signals stands out. PowerBi will be used here.
 
-### Storytelling
+### Visualisation Improvement
 
-![alt text](https://i.ibb.co/bPYXhWT/Capture.jpg)
-
-Reference
-https://www.storytellingwithdata.com/
-
-I have used Cole Nussbaumer knaflics Storytelling with data book to improve Control Chart visualization to suit the audience. 
+##### Before
 
 ![alt text](https://i.ibb.co/Hg8mDG9/problem.jpg)
 
-There are many unncessary information on the control chart and I have decided to fade out all the vectors and texts on the graph. Below is what I will go for, to allow stakeholder's attention to focus on what is neccessary. 
+Since there are many redundant information on the control chart. I have faded out all the vectors and texts on the graph and add in what I think is necessary. To focus on what is neccessary. 
+
+##### After
 
 ![alt text](https://i.ibb.co/xG9sZyq/solution.jpg)
+
 
 ### Steps
 Steps involved in this study includes
@@ -82,7 +78,7 @@ Steps involved in this study includes
 ## Result
 
 
-![alt text](https://asq.org/-/media/Images/Learn-About-Quality/Seven-Basic-Quality-Tools/dcat-control-chart.gif?la=en)
+![alt text]()
 
 
 
