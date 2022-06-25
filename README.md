@@ -55,7 +55,9 @@ The main objective of this project is to aggregate the data and provide a meanin
 Reference
 https://www.storytellingwithdata.com/
 
-There are 5 steps to Data Storytelling
+I have used Cole Nussbaumer knaflics Storytelling with data book to To improve visualise of the Contorl Chart to suit the audience. 
+
+Essentially, there are 5 steps to Data Storytelling;
 
 1) Understand the context - What is the problem statement?
 <br /> The context is that the stakeholders would like to have an overview of the train system reliability, to ensure that area of concern is captured before it leads to train service delay.
