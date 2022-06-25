@@ -70,6 +70,7 @@ There are 5 steps to Data Storytelling
 <br /> We will focus on the 2 major indicators (line 18 and 19) used in control chart that provides that most useful information for defect trending.
 
 5) Tell a story - What are the mode of presentation?
+<br /> 
 
 ### Steps
 Steps involved in this study includes
@@ -78,12 +79,14 @@ Steps involved in this study includes
 2) Aggregate the data -  To groupby the data by fleet and Fault group 
 3) Feature Engineering 
 
-<br />  3.1) Identify the mean defect of each fleet Fault Group
-<br />  3.2) Create a column that can visualise UCL line Not concern with LCL for defect rate)
+<br />  3.1) Create a column that can visualise mean defect.
+<br />  3.2) Create a column that can visualise UCL line.
 <br />  3.3) Create a column that can visualise a data point that went above UCL line.
 <br />  3.4) Create a column that can visualise an upward trend. (Not concern with downward trend for defect rate)
-<br />  3.5) Join the defect rate data with the withdrawal rate data
-<br />  3.6) Visualise it on the Dashboard
+
+5) Perform a combo chart to join withdrawal data with defect data.
+6) Visualise on the dashboard.
+
 
 ## Result
 
