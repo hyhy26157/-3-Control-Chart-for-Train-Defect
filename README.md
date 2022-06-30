@@ -51,7 +51,7 @@ The main objective of this project is to aggregate the data and provide a meanin
 
 ![alt text](https://i.ibb.co/Hg8mDG9/problem.jpg)
 
-Since there are many redundant information on the control chart. I have faded out all the vectors and texts on the graph. This helps stakeholders to pay attention only to necessary information. 
+Since there are many redundant information on the control chart. I have faded out all the vectors and texts on the graph. Below image shows only the necessary information needed for this presentation.
 
 ##### After
 
