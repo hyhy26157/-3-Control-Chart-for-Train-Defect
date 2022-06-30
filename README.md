@@ -20,7 +20,7 @@ Control Chart has mainly 8 types of chart patterns that signal Out-of-control. I
 
 ### Data 
 
-Data showcase in this case study are gathered from a train operator based in metropolis with warm climate. Reported faults are between 2019-Jan to 2022-May. Sensitive information has been replaced with a dummy information.
+Data showcase in this case study are gathered from a train operator based in a highly populated city with warm climate all seasons. Reported faults are between 2019-Jan to 2022-May. Sensitive information has been replaced with a dummy information.
 
 #### Dataset 1 (Train Defect Data) - Train defect data.
 
