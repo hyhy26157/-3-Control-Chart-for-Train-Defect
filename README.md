@@ -77,17 +77,15 @@ Steps involved in this study includes
 ## Result
 
 
-![alt text](https://ibb.co/cCXm1Nv)
+![alt text](https://i.ibb.co/jWZpTL5/Capture.jpg)
 
 
 
-Chart data are presened in rows and columns, seperated by the fleet Type and Fault Group. Indicators signals has been bolded, along with text to justify for the failure. Unncessary details has been removed or faded to reduce distractions for the audience. 
+Chart data are presened in rows and columns, seperated by the fleet Type and Fault Group. Indicators are bolded, along with text to help audience to understand the concern at certain period. Unncessary details has been removed or faded to reduce distractions to the audience. 
 
 
 ## Conclusion
-Less is more. Chart design should always been .
-
-
+Less is more. Context is the most important when designing charts. Knowing who is your audience and value each others time allow presenter to deliver an effective storytelling experience to the audience.
 
 Q&A
 Why not use moving average to smoothen out the noise?
