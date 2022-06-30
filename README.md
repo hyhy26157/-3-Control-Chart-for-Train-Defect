@@ -88,7 +88,7 @@ Less is more. Context is the most important when designing charts. Knowing who i
 
 Q&A
 Why not use moving average to smoothen out the noise?
-Answers: Smoothen out the defect rates will eliminate failure spikes which can provide crucial information to stakeholders.
+<br /> Answers: Smoothen out the defect rates will eliminate failure spikes which can provide crucial information to stakeholders.
 
 Reference
 https://asq.org/quality-resources/control-chart
