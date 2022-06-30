@@ -57,7 +57,6 @@ Since there are many redundant information on the control chart. I have faded ou
 
 ![alt text](https://i.ibb.co/xG9sZyq/solution.jpg)
 
-
 ### Steps
 Steps involved in this study includes
 
