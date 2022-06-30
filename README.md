@@ -20,7 +20,7 @@ Control Chart has mainly 8 types of chart patterns that signal Out-of-control. I
 
 ### Data 
 
-Data showcase in this case study are gathered from a train operator based in a highly populated city with warm climate all seasons. Reported faults are between 2019-Jan to 2022-May. Sensitive information has been replaced with a dummy information.
+Data showcase in this case study are train defect data gathered from a train operator based in a highly populated city with warm climate all seasons. Reported faults are between 2019-Jan to 2022-May. Sensitive information has been replaced with a dummy information.
 
 #### Dataset 1 (Train Defect Data) - Train defect data.
 
@@ -33,7 +33,7 @@ Data showcase in this case study are gathered from a train operator based in a h
 - ABC (Monthly)- Month-year of the Fleet ABC Mileage
 - XYZ (Monthly)- Month-year of the Fleet XYZ Mileage
 
-#### Dataset 3 (Train Withdrawal Data) - Train withdrawal means train defects happened during service hours and it is removed from servicing. Trains' passengers will disembark at next nearest station. This is one of the KPI the train operator tracks, to improve passenger experience.
+#### Dataset 3 (Train Withdrawal Data) - Train withdrawal means train defects happened during service hours and it is removed from servicing. Trains' passengers will disembark at next nearest station. This is one of the KPI the train operator tracks, to reduce passenger dissatisfaction.
 
 - Year_Month - Month-year of the reported train withdrawal
 - Fault_Group - Classification of fault type. (e.g. Aircon System)
