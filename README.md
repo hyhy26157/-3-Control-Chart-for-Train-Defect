@@ -1,4 +1,4 @@
-# Case Study #3 - Control Chart Visualisation
+# Case Study #3 - How to become more effective at data storytelling by customizing your chart features
 
 ### What is a Control Chart?
 
