@@ -45,13 +45,13 @@ The main objective of this project is to aggregate the data and provide a meanin
 1) To aggregate the defect data so that an overview of all the critical train system's health can be easily visualised. Python (Pandas and Numpy) will be used here.
 2) To improve visualisation of the control chart by making the 2 out-of-control signals stands out. PowerBi will be used here.
 
-### Visualisation Improvement
+### Control Chart Visualisation Selection
 
 ##### Before
 
 ![alt text](https://i.ibb.co/Hg8mDG9/problem.jpg)
 
-Since there are many redundant information on the control chart. I have faded out all the vectors and texts on the graph and add in what I think is necessary. To focus on what is neccessary. 
+Since there are many redundant information on the control chart. I have faded out all the vectors and texts on the graph. This helps stakeholders to pay attention only to necessary information. 
 
 ##### After
 
@@ -77,7 +77,7 @@ Steps involved in this study includes
 ## Result
 
 
-![alt text]()
+![alt text](https://ibb.co/qpKwrQ2)
 
 
 
@@ -88,7 +88,9 @@ Steps involved in this study includes
 
 
 
-
+Q&A
+Why not use moving average to smoothen out the noise?
+Answers: Smoothen out the defect rates will eliminate failure spikes which can provide crucial information to stakeholders.
 
 Reference
 https://asq.org/quality-resources/control-chart
