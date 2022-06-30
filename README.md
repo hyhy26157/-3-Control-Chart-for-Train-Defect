@@ -41,7 +41,7 @@ Data showcase in this case study are gathered from a train operator based in met
 
 ### Objective
 
-The main objective of this project is to aggregate the data and provide a meaningful visualisation for the stakeholders to understand the overview of the fault and provide a mitigation plan.
+The main objective of this project is to aggregate the data and provide a meaningful visualisation for the general stakeholders (Technical and Non-Technical) to understand the overview of the fault and provide a mitigation plan.
 1) To aggregate the defect data so that an overview of all the critical train system's health can be easily visualised. Python (Pandas and Numpy) will be used here.
 2) To improve visualisation of the control chart by making the 2 out-of-control signals stands out. PowerBi will be used here.
 
@@ -77,14 +77,15 @@ Steps involved in this study includes
 ## Result
 
 
-![alt text](https://ibb.co/qpKwrQ2)
+![alt text](https://ibb.co/cCXm1Nv)
 
 
 
+Chart data are presened in rows and columns, seperated by the fleet Type and Fault Group. Indicators signals has been bolded, along with text to justify for the failure. Unncessary details has been removed or faded to reduce distractions for the audience. 
 
 
-
-
+## Conclusion
+Less is more. Chart design should always been .
 
 
 
