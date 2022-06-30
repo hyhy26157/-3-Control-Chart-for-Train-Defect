@@ -86,7 +86,7 @@ Chart data are presened in rows and columns, seperated by the fleet Type and Fau
 ## Conclusion
 Less is more. Context is the most important when designing charts. Knowing who is your audience and value each others time allow presenter to deliver an effective storytelling experience to the audience.
 
-Q&A
+## Q&A
 Why not use moving average to smoothen out the noise?
 <br /> Answers: Smoothen out the defect rates will eliminate failure spikes which can provide crucial information to stakeholders.
 
